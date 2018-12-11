@@ -1,0 +1,23 @@
+{
+  "name": "rideotg-react-native",
+  "version": "1.0.0",
+  "description": "rideotg react native",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearymachine/RideOTG-React-Native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wearymachine/RideOTG-React-Native/issues"
+  },
+  "homepage": "https://github.com/wearymachine/RideOTG-React-Native#readme"
+}
